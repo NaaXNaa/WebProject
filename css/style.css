@@ -234,8 +234,14 @@ header {
   border-radius: 10px;
 }
 
+.submateriImage {
+  text-align: center;
+  border-radius: 20px;
+}
+
 .submateri img {
-  margin: auto;
+  width: 200px;
+  border-radius: 20px;
 }
 
 .barturun {
