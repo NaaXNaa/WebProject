@@ -291,13 +291,26 @@ header {
   padding-left: 20px;
 }
 
+.def1 {
+  padding-left: 20px;
+}
+
 /*Sejarah telekomunikasi*/
 
-.sejarahtel {
-  padding: 40px;
+.sejarahtel1 {
+  padding-top: 43px;
+  padding-left: 55px;
+  color: #222;
+}
+.sejarahtel1 span {
   color: #ffffff;
 }
 
-.sejarahtel span {
-  color: #222;
+.sejarahtel2 {
+  padding: 20px 30px;
+}
+
+.sejarahtel2 span {
+  padding-left: 10px;
+  color: #ffffff;
 }
