@@ -290,3 +290,14 @@ header {
 .par {
   padding-left: 20px;
 }
+
+/*Sejarah telekomunikasi*/
+
+.sejarahtel {
+  padding: 40px;
+  color: #ffffff;
+}
+
+.sejarahtel span {
+  color: #222;
+}
