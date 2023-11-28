@@ -234,6 +234,10 @@ header {
   border-radius: 10px;
 }
 
+.submateri img {
+  margin: auto;
+}
+
 .barturun {
   color: #c3b091;
 }
