@@ -317,16 +317,9 @@ header {
 
 .gambarsej {
   display: flex;
+  text-align: center;
+  justify-content: space-evenly;
   align-items: center;
-}
-.gambarasap {
-  padding-right: 20px;
-}
-.gambardaun {
-  padding-right: 20px;
-}
-.gambartelp {
-  padding-right: 20px;
 }
 
 /*Tabel*/
@@ -337,17 +330,29 @@ header {
 
 table {
   border-collapse: collapse;
+  margin: auto;
   border-spacing: 0;
-  width: 100%;
-  border: 1px solid #ddd;
+  width: 50%;
+  border: 1px solid #222;
 }
 
 th,
 td {
-  text-align: left;
+  text-align: center;
   padding: 16px;
 }
 
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #c3b091;
+}
+
+/* Sumber */
+.sublink {
+  padding: 50px 50px;
+  color: #222;
+}
+
+.linksum a {
+  padding-left: 30px;
+  color: #222;
 }
